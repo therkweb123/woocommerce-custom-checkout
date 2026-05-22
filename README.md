@@ -1,13 +1,14 @@
-# WooCommerce Custom Checkout
+# WooCommerce Custom Checkout Optimization
 
-A lightweight WooCommerce checkout customization example focused on improving user experience and conversions.
+Custom WooCommerce checkout optimization example focused on improving conversions and user experience.
 
 ## Features
 
-* Custom checkout fields
-* Simplified checkout flow
-* WooCommerce hooks & filters
-* Conversion-focused optimization
+✔️ Remove unnecessary checkout fields
+✔️ Add custom WhatsApp checkout field
+✔️ Optimize checkout placeholders
+✔️ Improve checkout UX
+✔️ WooCommerce hooks & filters example
 
 ## Tech Stack
 
@@ -15,8 +16,16 @@ A lightweight WooCommerce checkout customization example focused on improving us
 * WordPress
 * WooCommerce
 
-## Purpose
+## Use Case
 
-This repository demonstrates custom WooCommerce checkout optimizations commonly used in ecommerce projects.
+This project demonstrates how WooCommerce checkout pages can be optimized for better user experience and higher conversion rates.
 
-Built by Rahul Kumar Kushwaha.
+## Installation
+
+1. Upload the file to your theme's functions.php or custom plugin.
+2. Activate WooCommerce.
+3. Test the checkout page.
+
+## Author
+
+Rahul Kumar Kushwaha
